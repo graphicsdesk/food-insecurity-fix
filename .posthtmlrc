@@ -152,10 +152,11 @@
         "headline": "As COVID-19 cases rise, so does food insecurity among the homeless. Can food providers and shelters keep up?",
         "date": "November 30, 2020",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Maya-Mitrasinovic/\">Maya Mitrasinovic</a> and <a href=\"https://www.columbiaspectator.com/contributors/Elizabeth-Commisso/\">Elizabeth Commisso</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LWYPL4S445C43DWQN6FY5ARG54.jpg",
         "footer": "",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1AeRycEV6FvToBGtp-vOfNaqrZboAFzJ2BPNr5sq7kTI/edit?usp=sharing"
       }
